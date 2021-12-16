@@ -1,0 +1,6 @@
+fala= input('Seu nome:') 
+print('           __')
+print("      (___()'`;    {} Obrigado por testar".format(fala)) 
+print('      /,   ²/ ') 
+print("DOG2  \\-\\ \\-\\")  
+print('='*20)
